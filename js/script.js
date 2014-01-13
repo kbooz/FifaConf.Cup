@@ -4,9 +4,3 @@ $('[data-toggle=tab]').click(function(){
   }
 })
 $('.dropdown-toggle').dropdown();
-
-
-function altera (nome,id,btn)
-{
-
-}
